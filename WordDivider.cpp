@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
-void WordDivider(const &string str){
+void WordDivider(const string& str){
 	string n,k;
 	n = str;
 	int i = 0, cnt = 1;
